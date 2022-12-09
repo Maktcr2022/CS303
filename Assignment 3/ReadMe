@@ -1,0 +1,4 @@
+Most of the code doesnt require user input to run. The queue portion comes first, with the queue being built without user input and functions execute
+without input. The state mapping section comes next, which prints out the pairs and then prompts the user to input a State. If a valid state is enteredm, the matching
+capital will be printed out.
+The palindrome function comes next, which checks if the string stored in 'char ceckString' is a palindrome. Prints yes if it is, and no if not.
